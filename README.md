@@ -1,2 +1,2 @@
 # firstrepocpp
-Simple dice in C++
+I'll upload random cpp programs here
